@@ -93,6 +93,12 @@
 
 <h1 align="center">Graphical Settings</h1>
 
+### Performance Fast Flag
+```json
+{
+  "DFFlagDebugPerfMode": "True"
+}
+```
 ### Force MSAA/Multisample Anti-Aliasing
 > [!IMPORTANT]
 > **Values: 0, 1, 2, 4, 8**
