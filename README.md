@@ -415,6 +415,7 @@ High
 }
 ```
 ### GUI Hiding Toggles
+![image]([https://github.com/user-attachments/assets/cfdc9732-084e-4c09-bc43-8039a3bf0d89](https://cdn.discordapp.com/attachments/1020368455578435634/1286496055697080401/image.png?ex=66ee1e51&is=66ecccd1&hm=7ae6d1e6c7199f02b692e72ac36654be720e6e5abfe89dc3c309f5ba7c7fa0d1&)
 ```json
 {
   "FFlagUserShowGuiHideToggles": "True",
@@ -472,6 +473,7 @@ High
 }
 ```
 ### New Camera Mode
+![image]([https://github.com/user-attachments/assets/cfdc9732-084e-4c09-bc43-8039a3bf0d89](https://cdn.discordapp.com/attachments/1020368455578435634/1286496055697080401/image.png?ex=66ee1e51&is=66ecccd1&hm=7ae6d1e6c7199f02b692e72ac36654be720e6e5abfe89dc3c309f5ba7c7fa0d1&)
 ```json
 {
   "FFlagNewCameraControls": "True"
