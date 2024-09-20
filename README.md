@@ -399,9 +399,9 @@ High
   "FIntFullscreenTitleBarTriggerDelayMillis": "3600000"
 }
 ```
-### Hide GUIs
+### Hide guis
 > [!IMPORTANT]
-> **Replace "ID" with any Group ID that you are in.**
+> **Replace "ID" with any group ID that you are in.**
 
 | Key combination   | Action                                                                    |
 | ----------------- | ------------------------------------------------------------------------- |
@@ -409,10 +409,9 @@ High
 | Ctrl + Shift + C  | Toggles game-defined ScreenGuis                                           |
 | Ctrl + Shift + G  | Toggles Roblox CoreGuis                                                   |
 | Ctrl + Shift + N  | Toggles player names, and other BillboardGuis that show up above a player |
-<img src="https://cdn.discordapp.com/attachments/1020368455578435634/1286483777995931743/Screenshot_2024-09-19_192606.png?ex=66ee12e2&is=66ecc162&hm=dfaaca50079e6f55faafc890ef5b0a3ff1be3380052729debd8f7332b6749a56&" width="700"/>
 ```json
 {
-  "DFIntCanHideGuiGroupId": "ID"
+    "DFIntCanHideGuiGroupId": "ID"
 }
 ```
 ### GUI Hiding Toggles
