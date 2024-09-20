@@ -50,7 +50,7 @@
 {
   "FFlagDebugGraphicsDisableDirect3D11": "True",
   "FFlagDebugGraphicsPreferVulkan": "True",
-  "FFlagRenderVulkanFixMinimizeWindow": "True
+  "FFlagRenderVulkanFixMinimizeWindow": "True"
 }
 ```
 ### OpenGL
