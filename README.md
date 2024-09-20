@@ -415,7 +415,6 @@ High
 }
 ```
 ### GUI Hiding Toggles
-<img src="https://cdn.discordapp.com/attachments/1020368455578435634/1286496055697080401/image.png?ex=66ee1e51&is=66ecccd1&hm=7ae6d1e6c7199f02b692e72ac36654be720e6e5abfe89dc3c309f5ba7c7fa0d1&" width="750"/>
 ```json
 {
   "FFlagUserShowGuiHideToggles": "True",
