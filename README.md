@@ -823,8 +823,7 @@ High
 > **If a game has a "Skip Loading" button, it's recommended to use it. These games typically include a countdown timer that, after reaching zero, merely confirms that all assets are loaded.**
 ```json
 {
-  "DFIntNumAssetsMaxToPreload": "9999999",
-  "DFIntAssetPreloading": "9999999"
+  "DFIntNumAssetsMaxToPreload": "9999999"
 }
 ```
 ### Disable In-Game Purchases
