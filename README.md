@@ -647,7 +647,7 @@ High
 > 1396 is the default and could be the best.
 ```json
 {
-  "DFIntConnectionMTUSize": "1396"
+  "DFIntConnectionMTUSize": "1396",
   "DFIntRakNetMtuValue1InBytes": "1396",
   "DFIntRakNetMtuValue2InBytes": "1396",
   "DFIntRakNetMtuValue3InBytes": "1396"
